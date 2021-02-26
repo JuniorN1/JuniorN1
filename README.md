@@ -12,6 +12,15 @@
   <dd>Mysql</dd>
   <dd>MariaDb</dd>
 </ol>
-
 <h4><a href="https://www.linkedin.com/in/junior-silva-7483a2102/">Linkedin</a></h4>
 <h4><a href="https://app.rocketseat.com.br/me/junior-silva-1584998136">Rocketseat</a></h4>
+
+
+
+|  |  ||
+| ------------------- | ------------------- | ------------------- |
+|  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorN1&show_icons=true)   |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorN1)](https://github.com/anuraghazra/github-readme-stats)|![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JuniorN1)  |
+
+
+
+
