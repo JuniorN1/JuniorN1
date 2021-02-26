@@ -1,6 +1,3 @@
-<script>
-  alert(1);
-  </script>
 <h3>Meu nome e Júnior Silva</h3>
 <h3>Sobre</h3>
 <h4>Sou um programador a busca de melhor a cada dia mais tendo em mente que nunca chegarei a um limite sempre tendo que evoluir! tento resolver problemas de maneiras inteligentes, gosto de inovar, considero trabalho de equipe muito importante pois , sem ele não a projeto que se firme, e o mais importante gosto de pôr em prática todo o meu conhecimento mesmo que seja ínfimo a vista da imensidão do mar digital, aliás nada o'que você sabe e vale algo se você não aplicar!
