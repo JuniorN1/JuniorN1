@@ -13,7 +13,7 @@
   <dd>JavaScript</dd>
   <dd>TypeScript</dd>
 </ol>
-<h4>Atualmente Estudo/h4>
+<h4>Atualmente Estudo</h4>
 <h4>Tecnologias são:</h4>
 <dt>
   <dd>Wsl 2</dd>
