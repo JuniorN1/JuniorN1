@@ -9,7 +9,7 @@
   <dd>Mysql</dd>
   <dd>Docker</dd>
   <dd>Docker Composer</dd>
-  <dd>Laravelt</dd>
+  <dd>Laravel</dd>
 </ol>
 <h4>Atualmente Estudo:</h4>
 <dt>
