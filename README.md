@@ -6,19 +6,17 @@
 <h4>Atualmente atuo como freelancer</h4>
 <h4>As tecnologias que mais uso atualmente são:</h4>
 <dt>
-  <dd>Node js</dd>
-  <dd>React</dd>
-  <dd>React Native</dd>
   <dd>Mysql</dd>
-  <dd>JavaScript</dd>
-  <dd>TypeScript</dd>
+  <dd>Docker</dd>
+  <dd>Docker Composer</dd>
+  <dd>Laravelt</dd>
 </ol>
 <h4>Atualmente Estudo:</h4>
 <dt>
-  <dd>Wsl 2</dd>
-  <dd>Docker</dd>
-  <dd>Docker Composer</dd>
-  <dd>Debian</dd>
+   <dd>JavaScript</dd>
+   <dd>TypeScript</dd>
+   <dd>Node js</dd>
+   <dd>React Native</dd>
 </ol>
 <h4><a href="https://www.linkedin.com/in/junior-silva-7483a2102/">Linkedin</a></h4>
 <h4><a href="https://app.rocketseat.com.br/me/junior-silva-1584998136">Rocketseat</a></h4>
