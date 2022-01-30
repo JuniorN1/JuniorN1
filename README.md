@@ -3,7 +3,7 @@
 <h4>Sou um programador a busca de melhor a cada dia mais tendo em mente que nunca chegarei a um limite sempre tendo que evoluir! tento resolver problemas de maneiras inteligentes, gosto de inovar, considero trabalho de equipe muito importante pois , sem ele não a projeto que se firme, e o mais importante gosto de pôr em prática todo o meu conhecimento mesmo que seja ínfimo a vista da imensidão do mar digital, aliás nada o'que você sabe e vale algo se você não aplicar!
 
 </h4>
-<h4>Atualmente atuo como freelancer</h4>
+<h4>Atualmente atuo como programador junior full stack na Buzzvel</h4>
 <h4>As tecnologias que mais uso atualmente são:</h4>
 <dt>
   <dd>Mysql</dd>
