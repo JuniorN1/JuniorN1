@@ -10,7 +10,7 @@ Júnior Silva.
 ```
 **Technologies**
 
- Nodejs, Nestjs, PostgresSql, Nextjs, React Native with Expo.
+ Nodejs, Nestjs, PostgresSql, Nextjs, React Native - Expo.
 
 **Redes sociais**
 
