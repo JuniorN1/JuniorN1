@@ -9,8 +9,9 @@ Best regards,
 Júnior Silva.
 ```
 **Technologies**
-
- Nodejs, Nestjs, PostgresSql, Nextjs, React Native - Expo.
+```bash
+Node.js, Nest.js, PostgreSQL, Mysql, Next.js, React Native - Expo.
+```
 
 **Redes sociais**
 
