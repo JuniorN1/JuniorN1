@@ -17,6 +17,4 @@ Júnior Silva.
 
 ![Github Followers](https://img.shields.io/github/followers/JuniorN1?label=Followers&logo=GitHub&style=for-the-badge)
 
-![](https://img.shields.io/github/stars/JuniorN1?style=for-the-badge)
-
 ![](https://komarev.com/ghpvc/?username=JuniorN1) 
