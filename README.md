@@ -15,7 +15,7 @@ Node.js, Nest.js, PostgreSQL, Mysql, Next.js, React Native - Expo.
 
 **Redes sociais**
 
-[Linkedin](https://www.linkedin.com/in/junior-silva-7483a2102/)  //  [Rocketseat](https://app.rocketseat.com.br/me/junior-silva-1584998136)
+[Linkedin](https://www.linkedin.com/in/junior-silva-7483a2102/)  //  [Rocketseat](https://app.rocketseat.com.br/me/junior-silva-1584998136) // [E-mail](2016trabalhosonline@gmail.com)
 
 
 ![Github Followers](https://img.shields.io/github/followers/JuniorN1?label=Followers&logo=GitHub&style=for-the-badge)
