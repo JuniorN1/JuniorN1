@@ -1,41 +1,22 @@
-## Welcome to my profile
+**Welcome area**
+```bash
+Hello, everything is fine? Welcome to my profile!
 
-### About me
+Feel free to explore my projects and social networks, 
+and stay updated on the technologies I am currently studying and monitoring.
+ 
+Best regards,
+Júnior Silva.
+```
+**Technologies**
 
-I'm a programmer looking for the best every day, keeping in mind that I will never reach a limit, always having to evolve!
+ Nodejs, Nestjs, PostgresSql, Nextjs, React Native with Expo.
 
-I try to solve problems in smart ways, I like to innovate.
+**Redes sociais**
+[Linkedin](https://www.linkedin.com/in/junior-silva-7483a2102/)  //  [Rocketseat](https://app.rocketseat.com.br/me/junior-silva-1584998136)
 
-I consider teamwork very important.
+![Github Followers](https://img.shields.io/github/followers/JuniorN1?label=Followers&logo=GitHub&style=for-the-badge)
 
-I like to put all my knowledge into practice, even if it's negligible.
+![](https://img.shields.io/github/stars/JuniorN1?style=for-the-badge)
 
-Why nothing you know is worth anything if you don't apply!
-
-
-**The technologies I use the most are:**
- - Mysql
- - Postgres
- - JavaScript
- - laravel
- - livewire
- - CI/CD
-
-**Study Currently:**
- - TypeScript
- - Node js
- - NestJS
- - English
- - terraforms 
- - kubernets
-
-**Technologies that I intend to delve into.**
- - Docker
- - Docker Composer
-
-[Linkedin](https://www.linkedin.com/in/junior-silva-7483a2102/)
-
-[Rocketseat](https://app.rocketseat.com.br/me/junior-silva-1584998136)
-
-
-![Profile views](https://gpvc.arturio.dev/JuniorN1)  
+![](https://komarev.com/ghpvc/?username=JuniorN1) 
