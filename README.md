@@ -13,7 +13,9 @@ Júnior Silva.
  Nodejs, Nestjs, PostgresSql, Nextjs, React Native with Expo.
 
 **Redes sociais**
+
 [Linkedin](https://www.linkedin.com/in/junior-silva-7483a2102/)  //  [Rocketseat](https://app.rocketseat.com.br/me/junior-silva-1584998136)
+
 
 ![Github Followers](https://img.shields.io/github/followers/JuniorN1?label=Followers&logo=GitHub&style=for-the-badge)
 
